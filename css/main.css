@@ -1,0 +1,64 @@
+/*@import url('https://fonts.googleapis.com/css?family=Numans');*/
+@import url('https://fonts.googleapis.com/css?family=Abel');
+
+html, body {
+  height: 100vh;
+  min-height:100vh;
+}
+
+#banner {
+	height: 50vh;
+	width: 100%;
+}
+
+#banner img {
+	width: 100%;
+}
+
+#banner2 {
+	background: url("img/banner2.png") no-repeat center center;
+	background-size: contain;
+	overflow: hidden;
+	height: 50vh;	
+	/*width: 100%;*/
+}
+
+#feature1 {
+	background: url("img/1.jpg") no-repeat center center;
+	background-size: cover;
+	overflow: hidden;
+	height: 50vh;	
+}
+
+#feature2 {
+	background: url("img/2.jpg") no-repeat center center;
+	background-size: cover;
+	overflow: hidden;
+	height: 50vh;	
+}
+
+#feature3 {
+	background: url("img/3.jpg") no-repeat center center;
+	background-size: cover;
+	overflow: hidden;
+	height: 50vh;	
+}
+
+#feature4 {
+	background: url("img/4.jpg") no-repeat center center;
+	background-size: cover;
+	overflow: hidden;
+	height: 50vh;	
+}
+
+#map {
+	height: 80vh;
+}
+
+#footer {
+	height: 100px;
+}
+
+#footer .content {
+	height: 100%;
+}
