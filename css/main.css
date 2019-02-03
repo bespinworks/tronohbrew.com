@@ -70,3 +70,14 @@ html, body {
 #footer .content {
 	height: 100%;
 }
+
+#share {
+	color: white;
+	background-color: black;
+	opacity: .6;
+	width: 100px; 	
+ 	z-index: 100; /* Stay on top */	
+ 	position: fixed; /* Set the navbar to fixed position */
+ 	top: 50vh; /* Position the navbar at the top of the page */
+ 	left: calc(100vw - 100px);
+}
