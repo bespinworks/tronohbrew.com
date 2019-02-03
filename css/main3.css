@@ -74,9 +74,9 @@ html, body {
 #share {
 	color: white;
 	background-color: black;
-	opacity: .6;
+	opacity: 0;
 	width: 100px; 	
- 	z-index: 100; /* Stay on top */	
+ 	z-index: 1000; /* Stay on top */	
  	position: fixed; /* Set the navbar to fixed position */
  	top: 50vh; /* Position the navbar at the top of the page */
  	left: calc(100vw - 100px);
