@@ -75,7 +75,7 @@ html, body {
 	color: white;
 	background-color: black;
 	opacity: 0.8;
-	width: 100px; 	
+	width: 70px; 	
  	z-index: 1000; /* Stay on top */	
  	position: fixed; /* Set the navbar to fixed position */
  	top: 50vh; /* Position the navbar at the top of the page */
