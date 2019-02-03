@@ -1,5 +1,6 @@
 /*@import url('https://fonts.googleapis.com/css?family=Numans');*/
 @import url('https://fonts.googleapis.com/css?family=Abel');
+@import url('https://fonts.googleapis.com/css?family=Lora:400,400i');
 
 html, body {
   height: 100vh;
@@ -49,6 +50,14 @@ html, body {
 	background-size: cover;
 	overflow: hidden;
 	height: 50vh;	
+}
+
+#profile {
+	height: 80vh;
+ 	font-family: 'Lora', sans-serif;
+ 	font-size: 2em;	
+ 	font-style: italic;
+ 	font-weight: 100;
 }
 
 #map {
