@@ -55,8 +55,8 @@ html, body {
 #profile {
 	height: 80vh;
  	font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
- 	font-size: 1.8em;	
- 	font-style: italic;
+ 	font-size: 1.6em;	
+ 	/*font-style: italic;*/
  	font-weight: 300;
 }
 
